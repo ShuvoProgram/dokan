@@ -1,10 +1,6 @@
 # Dokan - E-Commerce API
 
-### Set up the Project
-
-- Create a new Express project.
-- Set up a MongoDB database using Mongoose for storing product and order data.
-
+"Dokan" is a robust e-commerce platform designed to empower merchants and entrepreneurs with seamless online selling capabilities. It offers a user-friendly interface for setting up and managing digital storefronts, enabling businesses to showcase their products effectively. Dokan supports various features like customizable storefronts, multi-vendor functionality, secure payment gateways, and extensive product management tools. It fosters a vibrant marketplace where sellers can reach a wide audience, while buyers enjoy a rich shopping experience with diverse product offerings. With its scalable architecture and intuitive design, Dokan facilitates the growth and success of e-commerce ventures across different industries.
 
 
 ## Product Management
