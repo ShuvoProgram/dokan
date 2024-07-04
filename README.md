@@ -422,7 +422,6 @@
    - api/v1/product/66862f1ef362f9c62432d131 (DELETE)
 
    #### Orders
-
     - /api/v1/order (POST)
     - api/v1/order?email=level3@programming-hero.com (GET)
 
